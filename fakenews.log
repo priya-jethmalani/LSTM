@@ -1,0 +1,12 @@
+2019-03-04 16:44:09,219 Starting new HTTP connection (1): nationalreport.net:80
+2019-03-04 16:44:11,225 http://nationalreport.net:80 "GET /donald-trump-hires-clueless-stacey-dash-negro-outreach-program/%0A HTTP/1.1" 301 None
+2019-03-04 16:44:12,346 http://nationalreport.net:80 "GET /donald-trump-hires-clueless-stacey-dash-negro-outreach-program// HTTP/1.1" 301 None
+2019-03-04 16:44:14,292 http://nationalreport.net:80 "GET /donald-trump-hires-clueless-stacey-dash-negro-outreach-program/ HTTP/1.1" 200 26167
+2019-03-04 16:44:14,706 Starting new HTTP connection (1): yournewswire.com:80
+2019-03-04 16:44:15,520 http://yournewswire.com:80 "GET /putin-hacked-emails-reveal-that-clinton-threatened-sanders-wife/%0A HTTP/1.1" 301 182
+2019-03-04 16:44:15,533 Starting new HTTPS connection (1): newspunch.com:443
+2019-03-04 16:44:18,796 https://newspunch.com:443 "GET /putin-hacked-emails-reveal-that-clinton-threatened-sanders-wife/%0A HTTP/1.1" 301 None
+2019-03-04 16:44:19,206 https://newspunch.com:443 "GET /putin-hacked-emails-reveal-that-clinton-threatened-sanders-wife// HTTP/1.1" 301 182
+2019-03-04 16:44:20,436 https://newspunch.com:443 "GET /putin-hacked-emails-reveal-that-clinton-threatened-sanders-wife/ HTTP/1.1" 200 None
+2019-03-04 16:44:20,461 Starting new HTTP connection (1): www.huffingtonpost.com:80
+2019-03-04 16:44:20,636 http://www.huffingtonpost.com:80 "GET /entry/hawaii-judge-rules-to-extend-block-trump-travel-ban_us_58dc9639e4b08194e3b73e15?ncid=inblnkushpmg00000009%0A HTTP/1.1" 403 345
